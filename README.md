@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Richard Teemal aka @rickytee29
-- 👀 I’m interested in game, software and cross-platform development.
+- 👀 I’m interested in game, software and cross-platform web development.
 - 🌱 I’m currently learning Machine Learning.
 - 💞️ I’m looking to collaborate on tech projects.
 - 📫 How to reach me whatsApp/Telegram 1 (868) 707-4760
